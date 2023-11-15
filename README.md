@@ -2,8 +2,8 @@
 ## How to Download the Data?
 1. `pip install --user kaggle`
 2. get the `kaggle.json` from kaggle:
-    1. Open the top left your photo, and click the *Your Profile*.
-    2. Then, click the *Account*, and click *Create New Token* at the API.
+    1. Open the top left your photo, and click the **Your Profile**.
+    2. Then, click the **Account**, and click **Create New Token** at the API.
     3. It will automatically down load `kaggle.json` to your device.
 3. run `mkdir ~/.kaggle`
 4. put your `kaggle.json` to `~/.kaggle`, and run `chmod 600 ~/.kaggle/kaggle.json`
