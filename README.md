@@ -12,6 +12,11 @@
 1. data: data download from kaggle
 2. notbook: code 
 3. submittion: submit data to the leaderboard
-
+## Current Process
+- Finished coding encoder-decoder-version, not include all the feactures. (11/21, 14:31)
+- Now training the encoder-decoder model.
+## To Do
+- Use all the feature for training.
+- Try another model.
 
 
