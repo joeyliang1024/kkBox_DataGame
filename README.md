@@ -19,6 +19,6 @@
 - Use all the feature for training.
 - Try another model.
 ## Bug
-- training process last two batch dimension error (fixing)
+- training process last two batch dimension error (fixed)
 
 
