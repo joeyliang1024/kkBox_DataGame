@@ -1,4 +1,5 @@
 # [kkBox DataGame](https://www.kaggle.com/competitions/datagame-2023/overview)
+## Remember the deadiline: 12/24
 ## How to Download the Data?
 1. `pip install --user kaggle`
 2. get the `kaggle.json` from kaggle:
@@ -13,11 +14,11 @@
 2. notbook: code 
 3. submittion: submit data to the leaderboard
 ## Current Process
-- Finished coding encoder-decoder-version, not include all the feactures. (11/21, 14:31)
-- Now training the encoder-decoder model.
+- full data preprocessing is in `notebook/encoder_decoder_all_feature_version.ipynb`
+- Encoder-Decoder train failed. (need another loss fn or model)
 ## To Do
-- Use all the feature for training.
 - Try another model.
+- Try another loss function.
 ## Bug
 - training process last two batch dimension error (fixed)
 
